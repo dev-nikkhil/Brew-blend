@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092073497724",
+    "project_id": "brew-blend-b04fc",
+    "storage_bucket": "brew-blend-b04fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092073497724:android:349b337630b426872115f9",
+        "android_client_info": {
+          "package_name": "com.example.brew_blend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBm3wW8lEDGSaILucT9GsroiOCAc_0aXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
